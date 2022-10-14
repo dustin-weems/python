@@ -17,6 +17,9 @@ Before each season begins, the fantasy baseball league members will come togethe
 This top tier is very helpful to my draft strategy, allowing me to narrow the prospective player pool to a subset that will make me highly competitive across all batting categories.  There are many players that a baseball fan would expect to see in the top tier, but there are others that have been less obvious.  This strategy has paid off as I have won my league's championship the last two years.  
 
 ## Core Files
-
+* [2021 Batting Projections](./2021_batting_projections.csv)
+* [K-Means Cluster Analysis](./cluster_analysis_on_batter_projections.ipynb)
+* [Projections with Clustering Results](./kmeans_output.csv)
 
 ## Resources
+* [Fangraphs](https://www.fangraphs.com/) - source of the projection data and a great site for fantasy baseball content
