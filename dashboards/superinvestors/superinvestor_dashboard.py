@@ -34,8 +34,8 @@ st.caption(
 )
 
 # import data
-df = load_data(st.secrets[main_df])
-bio_df = load_data(st.secrets[bio_df])
+df = load_data(st.secrets["main_df"])
+bio_df = load_data(st.secrets["bio_df"])
 
 # add header for new section about latest holdings
 st.markdown('---')
