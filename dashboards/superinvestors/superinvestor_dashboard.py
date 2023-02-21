@@ -8,6 +8,13 @@ import streamlit as st
 def remove(string):
     return "".join(string.split())
 
+@st.cache_data(ttl=600)
+def load_data(sheets_url):
+    csv_url = sheets_url.replace("/edit#gid=", "/export?format=csv&gid=")
+    return pd.read_csv(csv_url)
+
+df = load_data(st.secrets["public_gsheets_url"])
+
 # set page width to wide layout
 st.set_page_config(layout="wide")
 
@@ -27,8 +34,8 @@ st.caption(
 )
 
 # import data
-df = pd.read_csv('https://github.com/dustin-weems/python/blob/main/dashboards/superinvestors/data/superinvestor_data_2022Q4.csv')
-bio_df = pd.read_csv('https://github.com/dustin-weems/python/blob/main/dashboards/superinvestors/data/investor_bios.csv')
+df = load_data(st.secrets["https://docs.google.com/spreadsheets/d/1oRI8ehQ-2UjkeMdYWfVSBGbvXNFM4Kr8ov-DctLBELY/edit#gid=2112879536"])
+bio_df = load_data(st.secrets["https://docs.google.com/spreadsheets/d/1oRI8ehQ-2UjkeMdYWfVSBGbvXNFM4Kr8ov-DctLBELY/edit#gid=112921808"])
 
 # add header for new section about latest holdings
 st.markdown('---')
