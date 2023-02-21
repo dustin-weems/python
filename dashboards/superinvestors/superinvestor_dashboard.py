@@ -27,8 +27,8 @@ st.caption(
 )
 
 # import data
-df = pd.read_csv('data/superinvestor_data_2022Q4.csv')
-bio_df = pd.read_csv('data/investor_bios.csv')
+df = pd.read_csv('https://github.com/dustin-weems/python/blob/main/dashboards/superinvestors/data/superinvestor_data_2022Q4.csv')
+bio_df = pd.read_csv('https://github.com/dustin-weems/python/blob/main/dashboards/superinvestors/data/investor_bios.csv')
 
 # add header for new section about latest holdings
 st.markdown('---')
