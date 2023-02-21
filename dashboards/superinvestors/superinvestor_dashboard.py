@@ -34,8 +34,8 @@ st.caption(
 )
 
 # import data
-df = load_data(st.secrets["https://docs.google.com/spreadsheets/d/1oRI8ehQ-2UjkeMdYWfVSBGbvXNFM4Kr8ov-DctLBELY/edit#gid=2112879536"])
-bio_df = load_data(st.secrets["https://docs.google.com/spreadsheets/d/1oRI8ehQ-2UjkeMdYWfVSBGbvXNFM4Kr8ov-DctLBELY/edit#gid=112921808"])
+df = load_data(st.secrets[main_df])
+bio_df = load_data(st.secrets[bio_df])
 
 # add header for new section about latest holdings
 st.markdown('---')
