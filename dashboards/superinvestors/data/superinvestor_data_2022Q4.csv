@@ -1,0 +1,258 @@
+stock_description,pct_of_portfolio,quarterly_action,number_of_shares,share_price_at_qtr_end,total_investment,investor_name,fund_name,stock_ticker,quarter
+MSFT - Microsoft Corp.,9.9,Reduce 2.74%,"9,030,036",$239.82,"$2,165,583,000",Terry Smith,Fundsmith,MSFT,2022Q4
+PM - Philip Morris Intl.,7.6,Reduce 0.08%,"16,476,088",$101.21,"$1,667,545,000",Terry Smith,Fundsmith,PM,2022Q4
+EL - Estee Lauder Cos.,6.4,Reduce 4.64%,"5,679,620",$248.11,"$1,409,171,000",Terry Smith,Fundsmith,EL,2022Q4
+IDXX - IDEXX Laboratories,6.4,Reduce 4.89%,"3,443,732",$407.96,"$1,404,905,000",Terry Smith,Fundsmith,IDXX,2022Q4
+SYK - Stryker Corp.,6.3,Reduce 0.38%,"5,607,041",$244.49,"$1,370,865,000",Terry Smith,Fundsmith,SYK,2022Q4
+ADP - Automatic Data Processing Inc.,6.0,Reduce 0.56%,"5,540,720",$238.86,"$1,323,456,000",Terry Smith,Fundsmith,ADP,2022Q4
+MKC - McCormick & Co.,5.9,Reduce 0.07%,"15,495,211",$82.89,"$1,284,398,000",Terry Smith,Fundsmith,MKC,2022Q4
+WAT - Waters Corp.,5.8,Reduce 0.09%,"3,689,697",$342.58,"$1,264,016,000",Terry Smith,Fundsmith,WAT,2022Q4
+PEP - PepsiCo Inc.,5.5,Reduce 6.82%,"6,657,120",$180.66,"$1,202,675,000",Terry Smith,Fundsmith,PEP,2022Q4
+V - Visa Inc.,5.3,Reduce 0.41%,"5,612,145",$207.76,"$1,165,979,000",Terry Smith,Fundsmith,V,2022Q4
+MTD - Mettler-Toledo International Inc.,3.7,Reduce 0.10%,"560,900","$1,445.45","$810,753,000",Terry Smith,Fundsmith,MTD,2022Q4
+BF.B - Brown-Forman Corp.,3.6,Reduce 0.65%,"12,146,796",$65.68,"$797,802,000",Terry Smith,Fundsmith,BF.B,2022Q4
+NKE - NIKE Inc.,3.6,Reduce 0.12%,"6,726,271",$117.01,"$787,041,000",Terry Smith,Fundsmith,NKE,2022Q4
+ADBE - Adobe Inc.,3.2,Reduce 0.09%,"2,109,326",$336.53,"$709,851,000",Terry Smith,Fundsmith,ADBE,2022Q4
+CHD - Church & Dwight,3.1,Reduce 0.14%,"8,446,572",$80.61,"$680,878,000",Terry Smith,Fundsmith,CHD,2022Q4
+GOOGL - Alphabet Inc.,3.1,Reduce 0.09%,"7,626,313",$88.23,"$672,870,000",Terry Smith,Fundsmith,GOOGL,2022Q4
+META - Meta Platforms Inc.,3.0,Reduce 0.06%,"5,476,865",$120.34,"$659,086,000",Terry Smith,Fundsmith,META,2022Q4
+AMZN - Amazon.com Inc.,2.6,Reduce 0.10%,"6,777,831",$84.00,"$569,338,000",Terry Smith,Fundsmith,AMZN,2022Q4
+OTIS - Otis Worldwide Corp.,2.3,Reduce 0.08%,"6,280,677",$78.31,"$491,840,000",Terry Smith,Fundsmith,OTIS,2022Q4
+<1% Basket - Multiple Holdings,6.7,,,,,Terry Smith,Fundsmith,<1% Basket,2022Q4
+STLA - Stellantis N.V.,29.7,Reduce 4.44%,"17,200,031",$14.20,"$244,240,000",Greg Alexander,Conifer Management,STLA,2022Q4
+EQH - Equitable Holdings Inc.,26.5,Reduce 5.00%,"7,600,000",$28.70,"$218,120,000",Greg Alexander,Conifer Management,EQH,2022Q4
+BLDR - Builders FirstSource Inc.,15.8,Reduce 20.00%,"2,000,000",$64.88,"$129,760,000",Greg Alexander,Conifer Management,BLDR,2022Q4
+LAD - Lithia Motors Inc.,12.5,Buy,"500,000",$204.74,"$102,370,000",Greg Alexander,Conifer Management,LAD,2022Q4
+IMXI - International Money Express Inc.,4.7,,"1,600,000",$24.37,"$38,992,000",Greg Alexander,Conifer Management,IMXI,2022Q4
+YNDX - Yandex N.V.,4.1,,"5,500,000",$6.11,"$33,630,000",Greg Alexander,Conifer Management,YNDX,2022Q4
+GPI - Group 1 Automotive,2.9,Buy,"131,547",$180.37,"$23,727,000",Greg Alexander,Conifer Management,GPI,2022Q4
+RMNI - Rimini Street Inc.,2.3,,"4,919,848",$3.81,"$18,745,000",Greg Alexander,Conifer Management,RMNI,2022Q4
+COF - Capital One Financial,1.1,,"100,000",$92.96,"$9,296,000",Greg Alexander,Conifer Management,COF,2022Q4
+<1% Basket - Multiple Holdings,0.4,,,,,Greg Alexander,Conifer Management,<1% Basket,2022Q4
+BRK.A - Berkshire Hathaway CL A,53.0,,349,"$468,710.60","$163,580,000",Norbert Lou,Punch Card Management,BRK.A,2022Q4
+ALLY - Ally Financial Inc.,27.6,,"3,489,438",$24.45,"$85,317,000",Norbert Lou,Punch Card Management,ALLY,2022Q4
+WGO - Winnebago Industries Inc.,17.0,,"996,573",$52.70,"$52,519,000",Norbert Lou,Punch Card Management,WGO,2022Q4
+SWBI - Smith & Wesson Brands,2.4,,"840,038",$8.68,"$7,292,000",Norbert Lou,Punch Card Management,SWBI,2022Q4
+BRK.B - Berkshire Hathaway CL B,19.3,Add 0.45%,"229,007",$308.90,"$70,740,000",Christopher Bloomstran,Semper Augustus,BRK.B,2022Q4
+BRK.A - Berkshire Hathaway CL A,13.7,Add 4.90%,107,"$468,710.28","$50,152,000",Christopher Bloomstran,Semper Augustus,BRK.A,2022Q4
+OLN - Olin Corp.,9.2,Reduce 0.06%,"640,893",$52.94,"$33,929,000",Christopher Bloomstran,Semper Augustus,OLN,2022Q4
+NEM - Newmont Corp.,5.9,Add 6.94%,"456,046",$47.20,"$21,525,000",Christopher Bloomstran,Semper Augustus,NEM,2022Q4
+MCY - Mercury General Corp.,5.6,Add 4.18%,"596,485",$34.20,"$20,400,000",Christopher Bloomstran,Semper Augustus,MCY,2022Q4
+PARA - Paramount Global CL B,4.4,Reduce 7.63%,"947,720",$16.88,"$15,998,000",Christopher Bloomstran,Semper Augustus,PARA,2022Q4
+VLO - Valero Energy,4.2,Reduce 0.84%,"120,733",$126.86,"$15,316,000",Christopher Bloomstran,Semper Augustus,VLO,2022Q4
+DINO - HF Sinclair Corp.,4.0,Reduce 1.11%,"280,212",$51.89,"$14,540,000",Christopher Bloomstran,Semper Augustus,DINO,2022Q4
+KGC - Kinross Gold Corp.,3.9,Reduce 5.47%,"3,536,561",$4.09,"$14,465,000",Christopher Bloomstran,Semper Augustus,KGC,2022Q4
+XOM - Exxon Mobil Corp.,3.1,Reduce 16.43%,"102,245",$110.30,"$11,278,000",Christopher Bloomstran,Semper Augustus,XOM,2022Q4
+DG - Dollar General,3.0,Reduce 0.15%,"43,997",$246.24,"$10,834,000",Christopher Bloomstran,Semper Augustus,DG,2022Q4
+CMI - Cummins Inc.,2.8,Add 0.13%,"41,615",$242.29,"$10,083,000",Christopher Bloomstran,Semper Augustus,CMI,2022Q4
+DLTR - Dollar Tree Inc.,2.7,Reduce 0.03%,"69,879",$141.44,"$9,884,000",Christopher Bloomstran,Semper Augustus,DLTR,2022Q4
+DIS - Walt Disney Co.,2.7,Add 67.90%,"113,110",$86.88,"$9,827,000",Christopher Bloomstran,Semper Augustus,DIS,2022Q4
+SBUX - Starbucks Corp.,2.7,Reduce 0.07%,"98,854",$99.20,"$9,806,000",Christopher Bloomstran,Semper Augustus,SBUX,2022Q4
+ALK - Alaska Air Group,2.6,Add 7.65%,"224,401",$42.94,"$9,636,000",Christopher Bloomstran,Semper Augustus,ALK,2022Q4
+EQNR - Equinor ASA,1.9,Reduce 0.29%,"195,883",$35.81,"$7,015,000",Christopher Bloomstran,Semper Augustus,EQNR,2022Q4
+NXPI - NXP Semiconductors NV,1.7,Add 2.74%,"39,778",$158.03,"$6,286,000",Christopher Bloomstran,Semper Augustus,NXPI,2022Q4
+MRK - Merck & Co.,1.3,,"44,473",$110.94,"$4,934,000",Christopher Bloomstran,Semper Augustus,MRK,2022Q4
+HXL - Hexcel Corp.,1.1,Reduce 0.08%,"71,309",$58.86,"$4,197,000",Christopher Bloomstran,Semper Augustus,HXL,2022Q4
+TRV - Travelers Companies Inc.,1.0,Add 0.78%,"20,155",$187.50,"$3,779,000",Christopher Bloomstran,Semper Augustus,TRV,2022Q4
+<1% Basket - Multiple Holdings,3.4,,,,,Christopher Bloomstran,Semper Augustus,<1% Basket,2022Q4
+MU - Micron Technology Inc.,29.8,,"11,476,523",$49.98,"$573,597,000",Li Lu,Himalaya Capital Management,MU,2022Q4
+BAC - Bank of America Corp.,25.1,,"14,586,987",$33.12,"$483,121,000",Li Lu,Himalaya Capital Management,BAC,2022Q4
+BRK.B - Berkshire Hathaway CL B,14.4,,"897,749",$308.90,"$277,315,000",Li Lu,Himalaya Capital Management,BRK.B,2022Q4
+GOOG - Alphabet Inc. CL C,14.0,,"3,044,000",$88.73,"$270,094,000",Li Lu,Himalaya Capital Management,GOOG,2022Q4
+GOOGL - Alphabet Inc.,11.6,Add 168.28%,"2,543,300",$88.23,"$224,395,000",Li Lu,Himalaya Capital Management,GOOGL,2022Q4
+AAPL - Apple Inc.,5.1,,"759,600",$129.93,"$98,695,000",Li Lu,Himalaya Capital Management,AAPL,2022Q4
+JOE - St. Joe Co.,78.5,Reduce 0.74%,"24,288,448",$38.65,"$938,749,000",Bruce Berkowitz,Fairholme Capital,JOE,2022Q4
+CMC - Commercial Metals,9.0,Reduce 6.29%,"2,228,200",$48.30,"$107,622,000",Bruce Berkowitz,Fairholme Capital,CMC,2022Q4
+EPD - Enterprise Products Partners LP,8.4,Add 6.70%,"4,142,800",$24.12,"$99,924,000",Bruce Berkowitz,Fairholme Capital,EPD,2022Q4
+BRK.B - Berkshire Hathaway CL B,1.6,Reduce 36.47%,"61,955",$308.90,"$19,138,000",Bruce Berkowitz,Fairholme Capital,BRK.B,2022Q4
+<1% Basket - Multiple Holdings,2.5,,,,,Bruce Berkowitz,Fairholme Capital,<1% Basket,2022Q4
+AAPL - Apple Inc.,38.9,Add 0.04%,"895,136,175",$129.93,"$116,305,042,000",Warren Buffett,Berkshire Hathaway,AAPL,2022Q4
+BAC - Bank of America Corp.,11.2,,"1,010,100,606",$33.12,"$33,454,531,000",Warren Buffett,Berkshire Hathaway,BAC,2022Q4
+CVX - Chevron Corp.,9.8,Reduce 1.44%,"162,975,771",$179.49,"$29,252,523,000",Warren Buffett,Berkshire Hathaway,CVX,2022Q4
+KO - Coca Cola Co.,8.5,,"400,000,000",$63.61,"$25,444,000,000",Warren Buffett,Berkshire Hathaway,KO,2022Q4
+AXP - American Express,7.5,,"151,610,700",$147.75,"$22,400,481,000",Warren Buffett,Berkshire Hathaway,AXP,2022Q4
+KHC - Kraft Heinz Co.,4.4,,"325,634,818",$40.71,"$13,256,593,000",Warren Buffett,Berkshire Hathaway,KHC,2022Q4
+OXY - Occidental Petroleum,4.1,,"194,351,650",$62.99,"$12,242,210,000",Warren Buffett,Berkshire Hathaway,OXY,2022Q4
+MCO - Moody's Corp.,2.3,,"24,669,778",$278.62,"$6,873,494,000",Warren Buffett,Berkshire Hathaway,MCO,2022Q4
+ATVI - Activision Blizzard Inc.,1.4,Reduce 12.35%,"52,717,075",$76.55,"$4,035,493,000",Warren Buffett,Berkshire Hathaway,ATVI,2022Q4
+<1% Basket - Multiple Holdings,12.0,,,,,Warren Buffett,Berkshire Hathaway,<1% Basket,2022Q4
+HGV - Hilton Grand Vacations Inc.,67.8,Reduce 4.65%,"7,367,930",$38.54,"$283,960,000",Clifford Sosin,CAS Investment Partners,HGV,2022Q4
+WRLD - World Acceptance Corp.,11.9,,"755,768",$65.94,"$49,835,000",Clifford Sosin,CAS Investment Partners,WRLD,2022Q4
+CVNA - Carvana Co.,7.7,,"6,827,803",$4.74,"$32,364,000",Clifford Sosin,CAS Investment Partners,CVNA,2022Q4
+CDLX - Cardlytics Inc.,7.5,,"5,416,116",$5.78,"$31,305,000",Clifford Sosin,CAS Investment Partners,CDLX,2022Q4
+COF - Capital One Financial,3.4,Buy,"151,218",$92.96,"$14,057,000",Clifford Sosin,CAS Investment Partners,COF,2022Q4
+PRTYQ - Party City Holdco Inc.,1.7,,"19,557,248",$0.37,"$7,148,000",Clifford Sosin,CAS Investment Partners,PRTYQ,2022Q4
+OVV - Ovintiv Inc.,4.8,Reduce 25.12%,"1,459,424",$50.71,"$74,007,000",Bill Miller,Miller Value Partners,OVV,2022Q4
+OMF - OneMain Holdings,4.5,Reduce 1.72%,"2,099,765",$33.31,"$69,943,000",Bill Miller,Miller Value Partners,OMF,2022Q4
+EXPE - Expedia Group Inc.,4.5,Reduce 1.74%,"787,300",$87.60,"$68,968,000",Bill Miller,Miller Value Partners,EXPE,2022Q4
+TMHC - Taylor Morrison Home Corp.,4.2,Reduce 10.53%,"2,151,320",$30.35,"$65,293,000",Bill Miller,Miller Value Partners,TMHC,2022Q4
+MAT - Mattel Inc.,3.9,Reduce 8.22%,"3,358,156",$17.84,"$59,910,000",Bill Miller,Miller Value Partners,MAT,2022Q4
+ET - Energy Transfer LP,3.8,Reduce 15.40%,"4,996,876",$11.87,"$59,313,000",Bill Miller,Miller Value Partners,ET,2022Q4
+AMZN - Amazon.com Inc.,3.6,Reduce 3.37%,"671,540",$84.00,"$56,409,000",Bill Miller,Miller Value Partners,AMZN,2022Q4
+DAL - Delta Air Lines Inc.,3.6,Reduce 1.80%,"1,677,660",$32.86,"$55,128,000",Bill Miller,Miller Value Partners,DAL,2022Q4
+GOOGL - Alphabet Inc.,3.5,Reduce 8.78%,"615,772",$88.23,"$54,330,000",Bill Miller,Miller Value Partners,GOOGL,2022Q4
+BABA - Alibaba Group Holdings,3.2,Reduce 12.66%,"558,507",$88.09,"$49,199,000",Bill Miller,Miller Value Partners,BABA,2022Q4
+TEVA - Teva Pharmaceutical Industries Ltd.,3.0,Reduce 44.39%,"5,147,027",$9.12,"$46,941,000",Bill Miller,Miller Value Partners,TEVA,2022Q4
+JPM - JPMorgan Chase & Co.,3.0,Reduce 10.88%,"349,181",$134.10,"$46,825,000",Bill Miller,Miller Value Partners,JPM,2022Q4
+C - Citigroup Inc.,3.0,Reduce 0.56%,"1,030,868",$45.23,"$46,626,000",Bill Miller,Miller Value Partners,C,2022Q4
+NCLH - Norwegian Cruise Line Hlgs Ltd.,3.0,Reduce 7.57%,"3,803,983",$12.24,"$46,561,000",Bill Miller,Miller Value Partners,NCLH,2022Q4
+GM - General Motors,2.9,Reduce 2.11%,"1,338,820",$33.64,"$45,038,000",Bill Miller,Miller Value Partners,GM,2022Q4
+UBER - Uber Technologies Inc.,2.7,Reduce 8.61%,"1,667,945",$24.73,"$41,248,000",Bill Miller,Miller Value Partners,UBER,2022Q4
+GOOS - Canada Goose Holdings Inc.,2.6,Add 122.57%,"2,234,764",$17.81,"$39,801,000",Bill Miller,Miller Value Partners,GOOS,2022Q4
+FISV - Fiserv Inc.,2.5,Reduce 20.94%,"382,490",$101.07,"$38,658,000",Bill Miller,Miller Value Partners,FISV,2022Q4
+UAL - United Airlines Holdings Inc.,2.4,Reduce 15.23%,"1,001,950",$37.70,"$37,774,000",Bill Miller,Miller Value Partners,UAL,2022Q4
+TNL - Travel Leisure Co.,2.4,Buy,"1,001,052",$36.40,"$36,438,000",Bill Miller,Miller Value Partners,TNL,2022Q4
+CHK - Chesapeake Energy,2.3,Add 666.40%,"383,200",$94.37,"$36,163,000",Bill Miller,Miller Value Partners,CHK,2022Q4
+SPLK - Splunk Inc.,2.2,Add 22.82%,"388,824",$86.09,"$33,474,000",Bill Miller,Miller Value Partners,SPLK,2022Q4
+META - Meta Platforms Inc.,2.1,Reduce 4.16%,"275,914",$120.34,"$33,204,000",Bill Miller,Miller Value Partners,META,2022Q4
+FTCH - Farfetch Ltd,2.1,Add 20.23%,"6,852,427",$4.73,"$32,412,000",Bill Miller,Miller Value Partners,FTCH,2022Q4
+CLF - Cleveland-Cliffs Inc.,2.1,Reduce 26.89%,"2,002,557",$16.11,"$32,261,000",Bill Miller,Miller Value Partners,CLF,2022Q4
+ADT - ADT Inc.,2.0,Reduce 37.57%,"3,351,027",$9.07,"$30,394,000",Bill Miller,Miller Value Partners,ADT,2022Q4
+KRTX - Karuna Therapeutics Inc.,1.8,Reduce 14.89%,"144,966",$196.50,"$28,486,000",Bill Miller,Miller Value Partners,KRTX,2022Q4
+COF - Capital One Financial,1.8,Reduce 2.61%,"299,263",$92.96,"$27,820,000",Bill Miller,Miller Value Partners,COF,2022Q4
+COIN - Coinbase Global Inc.,1.6,Add 173.89%,"716,532",$35.39,"$25,358,000",Bill Miller,Miller Value Partners,COIN,2022Q4
+SI - Silvergate Capital Corp. CL A,1.6,Add 448.19%,"1,423,984",$17.40,"$24,777,000",Bill Miller,Miller Value Partners,SI,2022Q4
+SOFI - SoFi Technologies Inc.,1.5,Reduce 3.49%,"4,908,580",$4.61,"$22,629,000",Bill Miller,Miller Value Partners,SOFI,2022Q4
+<1% Basket - Multiple Holdings,11.8,,,,,Bill Miller,Miller Value Partners,<1% Basket,2022Q4
+MU - Micron Technology Inc.,77.1,Add 2.03%,"1,860,812",$49.98,"$93,004,000",Mohnish Pabrai,Pabrai Investments,MU,2022Q4
+BN - Brookfield Corp.,18.6,Add 295.07%,"712,319",$31.46,"$22,410,000",Mohnish Pabrai,Pabrai Investments,BN,2022Q4
+BAM - Brookfield Asset Management,4.2,Buy,"178,077",$28.67,"$5,105,000",Mohnish Pabrai,Pabrai Investments,BAM,2022Q4
+SRG - Seritage Growth Properties,0.1,,"3,375",$11.85,"$40,000",Mohnish Pabrai,Pabrai Investments,SRG,2022Q4
+GEO - GEO Group Inc.,25.0,Reduce 47.35%,"1,063,127",$10.95,"$11,641,000",Michael Burry,Scion Asset Management,GEO,2022Q4
+BKI - Black Knight Inc.,19.9,Buy,"150,000",$61.75,"$9,263,000",Michael Burry,Scion Asset Management,BKI,2022Q4
+COHR - Coherent Corp.,11.3,Buy,"150,000",$35.10,"$5,265,000",Michael Burry,Scion Asset Management,COHR,2022Q4
+BABA - Alibaba Group Holdings,9.5,Buy,"50,000",$88.10,"$4,405,000",Michael Burry,Scion Asset Management,BABA,2022Q4
+JD - JD.com Inc.,9.1,Buy,"75,000",$56.13,"$4,210,000",Michael Burry,Scion Asset Management,JD,2022Q4
+WWW - Wolverine World Wide,8.4,Buy,"356,101",$10.93,"$3,892,000",Michael Burry,Scion Asset Management,WWW,2022Q4
+MGM - MGM Resorts International,7.2,Buy,"100,000",$33.53,"$3,353,000",Michael Burry,Scion Asset Management,MGM,2022Q4
+QRTEA - Qurate Retail Group Inc. CL A,5.3,Reduce 70.00%,"1,500,000",$1.63,"$2,445,000",Michael Burry,Scion Asset Management,QRTEA,2022Q4
+SKYW - SkyWest Inc.,4.4,Buy,"125,000",$16.51,"$2,064,000",Michael Burry,Scion Asset Management,SKYW,2022Q4
+SMAR - Smartsheet Inc.,22.0,Add 11.77%,"3,846,551",$39.36,"$151,400,000",Pat Dorsey,Dorsey Asset Management ,SMAR,2022Q4
+WIX - Wix.com Ltd.,17.9,Reduce 14.71%,"1,603,578",$76.83,"$123,203,000",Pat Dorsey,Dorsey Asset Management ,WIX,2022Q4
+META - Meta Platforms Inc.,17.4,Add 30.95%,"992,042",$120.34,"$119,382,000",Pat Dorsey,Dorsey Asset Management ,META,2022Q4
+ROKU - Roku Inc.,9.9,Add 17.90%,"1,677,711",$40.70,"$68,283,000",Pat Dorsey,Dorsey Asset Management ,ROKU,2022Q4
+DIS - Walt Disney Co.,9.4,Add 0.72%,"746,469",$86.88,"$64,853,000",Pat Dorsey,Dorsey Asset Management ,DIS,2022Q4
+PYPL - PayPal Holdings Inc.,7.7,Add 0.73%,"745,950",$71.22,"$53,127,000",Pat Dorsey,Dorsey Asset Management ,PYPL,2022Q4
+GOOG - Alphabet Inc. CL C,7.4,Add 0.71%,"570,922",$88.73,"$50,658,000",Pat Dorsey,Dorsey Asset Management ,GOOG,2022Q4
+SEMR - SEMrush Holdings Inc.,4.2,Add 2.79%,"3,548,943",$8.14,"$28,888,000",Pat Dorsey,Dorsey Asset Management ,SEMR,2022Q4
+UPWK - Upwork Inc.,4.1,Add 0.70%,"2,688,611",$10.44,"$28,069,000",Pat Dorsey,Dorsey Asset Management ,UPWK,2022Q4
+ATCO - Atlas Corp.,52.0,,"125,081,134",$15.34,"$1,918,745,000",Prem Watsa,Fairfax Financial Holdings,ATCO,2022Q4
+RFP - Resolute Forest Products,17.9,,"30,548,190",$21.59,"$659,535,000",Prem Watsa,Fairfax Financial Holdings,RFP,2022Q4
+KW - Kennedy-Wilson Holdings Inc.,5.7,,"13,322,009",$15.73,"$209,555,000",Prem Watsa,Fairfax Financial Holdings,KW,2022Q4
+MU - Micron Technology Inc.,4.7,,"3,462,049",$49.98,"$173,033,000",Prem Watsa,Fairfax Financial Holdings,MU,2022Q4
+BB - BlackBerry Ltd.,4.1,,"46,724,700",$3.25,"$151,855,000",Prem Watsa,Fairfax Financial Holdings,BB,2022Q4
+BAC - Bank of America Corp.,2.8,,"3,101,000",$33.11,"$102,674,000",Prem Watsa,Fairfax Financial Holdings,BAC,2022Q4
+OXY - Occidental Petroleum,1.6,,"921,500",$62.98,"$58,036,000",Prem Watsa,Fairfax Financial Holdings,OXY,2022Q4
+CVX - Chevron Corp.,1.5,,"314,000",$179.52,"$56,369,000",Prem Watsa,Fairfax Financial Holdings,CVX,2022Q4
+ORLA - Orla Mining Ltd,1.2,Add 4.89%,"10,719,650",$3.99,"$42,722,000",Prem Watsa,Fairfax Financial Holdings,ORLA,2022Q4
+<1% Basket - Multiple Holdings,8.7,,,,,Prem Watsa,Fairfax Financial Holdings,<1% Basket,2022Q4
+GOOGL - Alphabet Inc.,9.1,Add 15.55%,"4,199,000",$88.23,"$370,497,000",Bill Nygren,Oakmark Select Fund,GOOGL,2022Q4
+CBRE - CBRE Group,7.3,Add 6.94%,"3,850,000",$76.95,"$296,270,000",Bill Nygren,Oakmark Select Fund,CBRE,2022Q4
+ORCL - Oracle Corp.,7.1,Buy,"3,550,000",$81.74,"$290,177,000",Bill Nygren,Oakmark Select Fund,ORCL,2022Q4
+KKR - KKR & Co. L.P.,6.3,Add 10.00%,"5,500,000",$46.42,"$255,310,000",Bill Nygren,Oakmark Select Fund,KKR,2022Q4
+CRM - Salesforce.com,5.2,Add 32.37%,"1,595,000",$132.59,"$211,481,000",Bill Nygren,Oakmark Select Fund,CRM,2022Q4
+LAD - Lithia Motors Inc.,5.2,Add 28.50%,"1,028,000",$204.74,"$210,473,000",Bill Nygren,Oakmark Select Fund,LAD,2022Q4
+COF - Capital One Financial,5.1,Add 13.19%,"2,231,000",$92.96,"$207,403,000",Bill Nygren,Oakmark Select Fund,COF,2022Q4
+ICE - Intercontinental Exchange Inc.,4.5,Buy,"1,800,000",$102.59,"$184,662,000",Bill Nygren,Oakmark Select Fund,ICE,2022Q4
+HCA - HCA Healthcare Inc.,4.5,Reduce 2.32%,"757,000",$240.04,"$181,709,000",Bill Nygren,Oakmark Select Fund,HCA,2022Q4
+C - Citigroup Inc.,4.5,Reduce 19.95%,"4,012,000",$45.23,"$181,463,000",Bill Nygren,Oakmark Select Fund,C,2022Q4
+FCNCA - First Citizens Bancshares,4.4,Reduce 27.88%,"238,000",$758.60,"$180,546,000",Bill Nygren,Oakmark Select Fund,FCNCA,2022Q4
+ALLY - Ally Financial Inc.,4.2,,"7,000,000",$24.45,"$171,153,000",Bill Nygren,Oakmark Select Fund,ALLY,2022Q4
+AMZN - Amazon.com Inc.,4.2,Add 40.41%,"2,036,000",$84.00,"$171,022,000",Bill Nygren,Oakmark Select Fund,AMZN,2022Q4
+NFLX - Netflix Inc.,4.2,Reduce 41.73%,"574,000",$294.62,"$169,113,000",Bill Nygren,Oakmark Select Fund,NFLX,2022Q4
+CHTR - Charter Communications,4.0,Reduce 33.33%,"476,000",$339.03,"$161,378,000",Bill Nygren,Oakmark Select Fund,CHTR,2022Q4
+EOG - EOG Resources,3.8,Reduce 17.47%,"1,181,000",$129.48,"$152,916,000",Bill Nygren,Oakmark Select Fund,EOG,2022Q4
+WFC - Wells Fargo,3.6,Add 20.00%,"3,600,000",$41.29,"$148,644,000",Bill Nygren,Oakmark Select Fund,WFC,2022Q4
+FISV - Fiserv Inc.,3.5,Reduce 30.06%,"1,396,000",$101.09,"$141,125,000",Bill Nygren,Oakmark Select Fund,FISV,2022Q4
+WBD - Warner Bros. Discovery Inc.,2.8,Add 10.45%,"12,150,000",$9.48,"$115,182,000",Bill Nygren,Oakmark Select Fund,WBD,2022Q4
+LBRDK - Liberty Broadband Corp. CL C,2.6,Buy,"1,400,000",$76.27,"$106,778,000",Bill Nygren,Oakmark Select Fund,LBRDK,2022Q4
+APA - APA Corp.,2.6,Reduce 21.11%,"2,242,000",$46.68,"$104,657,000",Bill Nygren,Oakmark Select Fund,APA,2022Q4
+ALSN - Allison Transmission Holdings,1.4,Reduce 70.22%,"1,337,000",$41.59,"$55,604,000",Bill Nygren,Oakmark Select Fund,ALSN,2022Q4
+FCNCB - First Citizens Bancshares CL B,0.3,Add 6.67%,"16,000",$689.00,"$11,024,000",Bill Nygren,Oakmark Select Fund,FCNCB,2022Q4
+LBTYK - Liberty Global Inc. C,15.7,Reduce 0.72%,"47,504,310",$19.43,"$923,009,000",Seth Klarman,Baupost Group,LBTYK,2022Q4
+LSXMK - Liberty SiriusXM Series C,9.1,Reduce 0.92%,"13,651,048",$39.13,"$534,166,000",Seth Klarman,Baupost Group,LSXMK,2022Q4
+QRVO - Qorvo Inc.,8.8,Reduce 15.41%,"5,731,657",$90.64,"$519,517,000",Seth Klarman,Baupost Group,QRVO,2022Q4
+VSAT - Viasat Inc.,8.8,,"16,288,959",$31.65,"$515,546,000",Seth Klarman,Baupost Group,VSAT,2022Q4
+VRTV - Veritiv Corp.,6.9,Reduce 3.27%,"3,324,324",$121.71,"$404,603,000",Seth Klarman,Baupost Group,VRTV,2022Q4
+GOOG - Alphabet Inc. CL C,6.0,Add 190.22%,"3,994,280",$88.73,"$354,412,000",Seth Klarman,Baupost Group,GOOG,2022Q4
+WTW - Willis Towers Watson plc,5.3,Reduce 0.35%,"1,280,908",$244.58,"$313,284,000",Seth Klarman,Baupost Group,WTW,2022Q4
+LSXMA - Liberty Sirius XM Series A,5.1,,"7,677,656",$39.31,"$301,809,000",Seth Klarman,Baupost Group,LSXMA,2022Q4
+WBD - Warner Bros. Discovery Inc.,5.0,Add 6.90%,"31,000,000",$9.48,"$293,880,000",Seth Klarman,Baupost Group,WBD,2022Q4
+META - Meta Platforms Inc.,3.5,Add 150.83%,"1,727,851",$120.34,"$207,930,000",Seth Klarman,Baupost Group,META,2022Q4
+FISV - Fiserv Inc.,3.4,Reduce 43.31%,"2,002,391",$101.07,"$202,382,000",Seth Klarman,Baupost Group,FISV,2022Q4
+EDU - New Oriental Education & Technology,3.4,Reduce 24.61%,"5,793,928",$34.82,"$201,745,000",Seth Klarman,Baupost Group,EDU,2022Q4
+SSNC - SS&C Technologies Holdings Inc.,3.3,,"3,772,749",$52.06,"$196,409,000",Seth Klarman,Baupost Group,SSNC,2022Q4
+MU - Micron Technology Inc.,2.8,,"3,285,974",$49.98,"$164,233,000",Seth Klarman,Baupost Group,MU,2022Q4
+FIS - Fidelity National Information Services,2.5,Add 250.41%,"2,155,000",$67.85,"$146,217,000",Seth Klarman,Baupost Group,FIS,2022Q4
+LBTYA - Liberty Global Inc.,2.3,,"7,194,276",$18.93,"$136,188,000",Seth Klarman,Baupost Group,LBTYA,2022Q4
+TBPH - Theravance Biopharma Inc.,2.2,Reduce 14.90%,"11,419,226",$11.22,"$128,124,000",Seth Klarman,Baupost Group,TBPH,2022Q4
+AMZN - Amazon.com Inc.,1.4,Add 299.19%,"990,000",$84.00,"$83,160,000",Seth Klarman,Baupost Group,AMZN,2022Q4
+<1% Basket - Multiple Holdings,4.5,,,,,Seth Klarman,Baupost Group,<1% Basket,2022Q4
+MA - Mastercard Inc.,18.5,Reduce 0.43%,"5,866,026",$347.73,"$2,039,793,000",Chuck Akre,Akre Capital Management,MA,2022Q4
+MCO - Moody's Corp.,14.4,,"5,703,785",$278.62,"$1,589,189,000",Chuck Akre,Akre Capital Management,MCO,2022Q4
+AMT - American Tower Corp.,13.4,Add 0.29%,"6,993,427",$211.86,"$1,481,627,000",Chuck Akre,Akre Capital Management,AMT,2022Q4
+V - Visa Inc.,9.3,Reduce 6.15%,"4,922,138",$207.76,"$1,022,623,000",Chuck Akre,Akre Capital Management,V,2022Q4
+ORLY - O'Reilly Automotive,9.0,Reduce 19.66%,"1,182,283",$844.03,"$997,882,000",Chuck Akre,Akre Capital Management,ORLY,2022Q4
+ROP - Roper Technologies Inc.,6.5,Reduce 0.00%,"1,655,625",$432.09,"$715,379,000",Chuck Akre,Akre Capital Management,ROP,2022Q4
+KKR - KKR & Co. L.P.,6.3,Reduce 2.26%,"15,102,918",$46.42,"$701,077,000",Chuck Akre,Akre Capital Management,KKR,2022Q4
+CSGP - CoStar Group Inc.,5.0,,"7,111,430",$77.28,"$549,571,000",Chuck Akre,Akre Capital Management,CSGP,2022Q4
+BN - Brookfield Corp.,4.9,Add 29.92%,"17,366,753",$31.46,"$546,358,000",Chuck Akre,Akre Capital Management,BN,2022Q4
+DHR - Danaher Corp.,4.3,Add 8.03%,"1,788,200",$265.42,"$474,624,000",Chuck Akre,Akre Capital Management,DHR,2022Q4
+ADBE - Adobe Inc.,3.8,Reduce 25.59%,"1,239,558",$336.53,"$417,148,000",Chuck Akre,Akre Capital Management,ADBE,2022Q4
+KMX - CarMax Inc.,2.9,Reduce 28.04%,"5,291,022",$60.89,"$322,170,000",Chuck Akre,Akre Capital Management,KMX,2022Q4
+BAM - Brookfield Asset Management,1.0,Buy,"3,691,684",$28.67,"$105,841,000",Chuck Akre,Akre Capital Management,BAM,2022Q4
+<1% Basket - Multiple Holdings,0.8,,,,,Chuck Akre,Akre Capital Management,<1% Basket,2022Q4
+LOW - Lowe's Cos.,23.5,,"10,374,801",$199.24,"$2,067,075,000",Bill Ackman,Pershing Square Capital Management,LOW,2022Q4
+QSR - Restaurant Brands International,17.8,,"24,194,166",$64.67,"$1,564,637,000",Bill Ackman,Pershing Square Capital Management,QSR,2022Q4
+CMG - Chipotle Mexican Grill Inc.,17.5,,"1,105,208","$1,387.49","$1,533,465,000",Bill Ackman,Pershing Square Capital Management,CMG,2022Q4
+HLT - Hilton Worldwide Holdings,14.4,,"10,031,580",$126.36,"$1,267,590,000",Bill Ackman,Pershing Square Capital Management,HLT,2022Q4
+HHC - Howard Hughes Corp.,13.8,Add 16.70%,"15,895,135",$76.42,"$1,214,706,000",Bill Ackman,Pershing Square Capital Management,HHC,2022Q4
+CP - Canadian Pacific Railway,12.9,,"15,237,044",$74.59,"$1,136,531,000",Bill Ackman,Pershing Square Capital Management,CP,2022Q4
+BRK.B - Berkshire Hathaway CL B,8.8,Reduce 0.30%,"461,404",$308.90,"$142,528,000",Francois Rochon,Giverny Capital,BRK.B,2022Q4
+AME - Ametek Inc.,7.4,Add 0.76%,"853,298",$139.72,"$119,223,000",Francois Rochon,Giverny Capital,AME,2022Q4
+FIVE - Five Below Inc.,6.8,Add 0.32%,"618,351",$176.87,"$109,368,000",Francois Rochon,Giverny Capital,FIVE,2022Q4
+MKL - Markel Corp.,6.6,Reduce 0.97%,"81,360","$1,317.49","$107,191,000",Francois Rochon,Giverny Capital,MKL,2022Q4
+SCHW - Charles Schwab Corp.,6.4,Add 1.16%,"1,242,854",$83.26,"$103,480,000",Francois Rochon,Giverny Capital,SCHW,2022Q4
+KMX - CarMax Inc.,5.4,Add 16.93%,"1,435,307",$60.89,"$87,396,000",Francois Rochon,Giverny Capital,KMX,2022Q4
+HEI.A - HEICO Corp. CL A,5.0,Add 0.88%,"670,900",$119.85,"$80,407,000",Francois Rochon,Giverny Capital,HEI.A,2022Q4
+KEYS - Keysight Technologies Inc.,4.9,Reduce 0.48%,"462,986",$171.07,"$79,203,000",Francois Rochon,Giverny Capital,KEYS,2022Q4
+GOOG - Alphabet Inc. CL C,4.9,Reduce 0.68%,"886,978",$88.73,"$78,702,000",Francois Rochon,Giverny Capital,GOOG,2022Q4
+V - Visa Inc.,4.6,Reduce 0.50%,"358,387",$207.76,"$74,458,000",Francois Rochon,Giverny Capital,V,2022Q4
+PGR - Progressive Corp.,3.7,Add 2.31%,"461,325",$129.71,"$59,838,000",Francois Rochon,Giverny Capital,PGR,2022Q4
+NVR - NVR Inc.,3.6,Reduce 1.63%,"12,489","$4,612.62","$57,607,000",Francois Rochon,Giverny Capital,NVR,2022Q4
+FBIN - Fortune Brands Innovations Inc.,3.2,Add 41.17%,"896,997",$57.11,"$51,227,000",Francois Rochon,Giverny Capital,FBIN,2022Q4
+MTB - M&T Bank Corp.,2.8,Add 1.33%,"306,383",$145.06,"$44,444,000",Francois Rochon,Giverny Capital,MTB,2022Q4
+IBP - Installed Building Products,2.2,Reduce 0.16%,"413,320",$85.60,"$35,380,000",Francois Rochon,Giverny Capital,IBP,2022Q4
+LULU - Lululemon Athletica Inc.,2.2,Add 83.22%,"109,845",$320.38,"$35,192,000",Francois Rochon,Giverny Capital,LULU,2022Q4
+CIEN - Ciena Corp.,2.2,Reduce 0.24%,"680,657",$50.98,"$34,700,000",Francois Rochon,Giverny Capital,CIEN,2022Q4
+META - Meta Platforms Inc.,2.0,Add 0.88%,"270,786",$120.34,"$32,586,000",Francois Rochon,Giverny Capital,META,2022Q4
+EW - Edwards Lifesciences Corp.,2.0,Reduce 0.94%,"426,173",$74.61,"$31,797,000",Francois Rochon,Giverny Capital,EW,2022Q4
+BAC - Bank of America Corp.,1.9,Add 0.49%,"935,610",$33.12,"$30,987,000",Francois Rochon,Giverny Capital,BAC,2022Q4
+FRC - First Republic Bank,1.8,Add 7.96%,"236,893",$121.89,"$28,875,000",Francois Rochon,Giverny Capital,FRC,2022Q4
+SSNC - SS&C Technologies Holdings Inc.,1.3,Reduce 42.81%,"407,613",$52.06,"$21,220,000",Francois Rochon,Giverny Capital,SSNC,2022Q4
+DIS - Walt Disney Co.,1.2,Add 0.33%,"226,010",$86.88,"$19,636,000",Francois Rochon,Giverny Capital,DIS,2022Q4
+FND - Floor & Decor Holdings,1.2,Add 13.04%,"266,334",$69.63,"$18,545,000",Francois Rochon,Giverny Capital,FND,2022Q4
+GOOGL - Alphabet Inc.,1.1,Add 4.17%,"208,280",$88.23,"$18,377,000",Francois Rochon,Giverny Capital,GOOGL,2022Q4
+<1% Basket - Multiple Holdings,7.1,,,,,Francois Rochon,Giverny Capital,<1% Basket,2022Q4
+CACC - Credit Acceptance Corp.,46.9,,"195,246",$474.40,"$92,625,000",Robert Vinall,RV Capital,CACC,2022Q4
+CRM - Salesforce.com,20.3,Reduce 0.62%,"303,243",$132.59,"$40,207,000",Robert Vinall,RV Capital,CRM,2022Q4
+WIX - Wix.com Ltd.,17.7,,"455,800",$76.83,"$35,019,000",Robert Vinall,RV Capital,WIX,2022Q4
+META - Meta Platforms Inc.,12.8,,"210,400",$120.34,"$25,320,000",Robert Vinall,RV Capital,META,2022Q4
+CVNA - Carvana Co.,1.7,,"709,835",$4.74,"$3,365,000",Robert Vinall,RV Capital,CVNA,2022Q4
+TRUP - Trupanion Inc.,0.6,,"25,000",$47.52,"$1,188,000",Robert Vinall,RV Capital,TRUP,2022Q4
+BRK.B - Berkshire Hathaway CL B,23.4,,"140,600",$308.90,"$43,431,000",Guy Spier,Aquamarine Capital,BRK.B,2022Q4
+AXP - American Express,16.7,,"210,000",$147.75,"$31,028,000",Guy Spier,Aquamarine Capital,AXP,2022Q4
+BAC - Bank of America Corp.,13.7,,"767,845",$33.12,"$25,431,000",Guy Spier,Aquamarine Capital,BAC,2022Q4
+MA - Mastercard Inc.,12.3,,"65,750",$347.73,"$22,863,000",Guy Spier,Aquamarine Capital,MA,2022Q4
+RACE - Ferrari NV,9.2,,"80,000",$214.31,"$17,145,000",Guy Spier,Aquamarine Capital,RACE,2022Q4
+BRK.A - Berkshire Hathaway CL A,7.6,,30,"$468,700.00","$14,061,000",Guy Spier,Aquamarine Capital,BRK.A,2022Q4
+MU - Micron Technology Inc.,5.4,,"200,000",$49.98,"$9,996,000",Guy Spier,Aquamarine Capital,MU,2022Q4
+MCO - Moody's Corp.,4.1,,"27,000",$278.63,"$7,523,000",Guy Spier,Aquamarine Capital,MCO,2022Q4
+SRG - Seritage Growth Properties,3.2,,"500,000",$11.83,"$5,915,000",Guy Spier,Aquamarine Capital,SRG,2022Q4
+BABA - Alibaba Group Holdings,2.3,,"47,500",$88.08,"$4,184,000",Guy Spier,Aquamarine Capital,BABA,2022Q4
+DJCO - Daily Journal Corp.,1.6,,"11,500",$250.52,"$2,881,000",Guy Spier,Aquamarine Capital,DJCO,2022Q4
+GOOGL - Alphabet Inc.,0.8,,"16,000",$88.25,"$1,412,000",Guy Spier,Aquamarine Capital,GOOGL,2022Q4
+BAC - Bank of America Corp.,43.7,,"2,300,000",$33.12,"$76,176,000",Charlie Munger,Daily Journal Corp.,BAC,2022Q4
+WFC - Wells Fargo,37.7,,"1,591,800",$41.29,"$65,726,000",Charlie Munger,Daily Journal Corp.,WFC,2022Q4
+BABA - Alibaba Group Holdings,15.2,,"300,000",$88.09,"$26,427,000",Charlie Munger,Daily Journal Corp.,BABA,2022Q4
+USB - U.S. Bancorp,3.5,,"140,000",$43.61,"$6,105,000",Charlie Munger,Daily Journal Corp.,USB,2022Q4
