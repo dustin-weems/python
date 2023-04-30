@@ -4,6 +4,6 @@
 This folder contains my projects that primarily explore natural language processing techniques.  
 
 ## Projects
-* [Movie Reviews](./movie_reviews/) - using NLP methods to quantify sentiment from movie reviews
+* [Movie Reviews](./movie_reviews/) - exploring sentiment analysis against movie reviews
 
 ## Resources
