@@ -1,7 +1,7 @@
 # **Movie Reviews**
 
 ## Overview
-This project explores a few different approaches to sentiment analysis using movie reviews.   
+This project explores a few different approaches to sentiment analysis using movie reviews.  The goal was to better understand the performance between methods on a relevant dataset, whether cleaning the data improved performance, and the tradeoff between performance and compute time.     
 
 ## Core Files
 * [Movie Reviews Dataset](movie.csv)
