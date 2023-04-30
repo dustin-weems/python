@@ -1,6 +1,7 @@
 # **Movie Reviews**
 
 ## Overview
+This project explores a few different approaches to sentiment analysis using movie reviews.   
 
 ## Core Files
 * [Movie Reviews Dataset](movie.csv)
